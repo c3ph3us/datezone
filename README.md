@@ -3,7 +3,7 @@ Aplikacja mobilna datezone
 
 Obecna wersja:
 
-BETA:  0.3.38 beta3 16920
+BETA:  0.3.37 beta3 16920
 
 Strona domowa:
 http://datezone.ceph3us.pl
